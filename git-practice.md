@@ -20,6 +20,7 @@
 任務五：GitHub PR 衝突解決
 任務六：實務團隊開發流程
 
+[![](./screenshot/git-practice.png)](https://courses.hexschool.com/courses/20201122111/lectures/60728095)
 
 ## 參考資料
 
